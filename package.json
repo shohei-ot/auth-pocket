@@ -10,7 +10,7 @@
   "author": "Shohei Ohta <shohei.ot@gmail.com> (https://qiita.com/shohei_ot)",
   "license": "ISC",
   "dependencies": {
-    "dotenv": "^8.0.0",
+    "dotenv": "^16.0.0",
     "exit": "^0.1.2",
     "express": "^4.17.1"
   }
